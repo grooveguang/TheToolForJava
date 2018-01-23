@@ -1,0 +1,16 @@
+package com.grooveguang.commons.util;
+
+public class StringUtil {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	
+	
+	public void test() {
+		
+		
+	}
+}
